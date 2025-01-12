@@ -1,0 +1,20 @@
+{
+  "name": "sarvagya",
+  "version": "1.0.0",
+  "description": "This project involves the design and development of a drone equipped with a comprehensive sensor array to monitor air quality in real-time. The system is intended to provide actionable insights for urban planning, pollution control, and smart transportation initiatives. By leveraging advanced sensors, microcontrollers, and cloud-based analytics, the drone collects high-resolution environmental data, enabling smarter and more sustainable urban solutions.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Saksham Dhingra , Reet Anand, Mayank Dhingra , Yash Panwar , Sparsh Dutta , Arpan Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "dotenv": "^16.4.7",
+    "ejs": "^3.1.10",
+    "ejs-mate": "^4.0.0",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1"
+  }
+}

@@ -1,4 +1,4 @@
-# ** Sarvagya - Drone-Based Air Quality Monitoring System**  
+# **Sarvagya - Drone-Based Air Quality Monitoring System**  
 
 ## **Overview**  
 This project involves the design and development of a drone equipped with a comprehensive sensor array to monitor air quality in real-time. The system is intended to provide actionable insights for urban planning, pollution control, and smart transportation initiatives. By leveraging advanced sensors, microcontrollers, and cloud-based analytics, the drone collects high-resolution environmental data, enabling smarter and more sustainable urban solutions.  
