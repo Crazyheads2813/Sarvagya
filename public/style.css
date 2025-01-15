@@ -1,0 +1,23 @@
+body{
+    font-family: "Roboto Condensed", serif;
+}
+.navbar {
+    background-color: white;
+  }
+  .navbar-brand, .nav-link {
+    font-size: 1.35rem !important; /* Increased font size using rem */
+    color:#023e7d !important;
+  }
+.navbar-nav li{
+     margin-left:2.3rem !important;
+}  
+.dropdown-item{
+    color:#469faf !important;
+}
+
+@media screen and (max-width:992px){
+    .navbar-nav li{
+        margin-left:0 !important;
+   }  
+   
+}
