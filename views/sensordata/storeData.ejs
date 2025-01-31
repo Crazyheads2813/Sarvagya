@@ -1,0 +1,10 @@
+<% layout("/layouts/boilerplate") %>
+<body>
+    <h1>helllooo i am stored data!!</h1>
+    <div>
+        <%for(data of sensorDatas){%>
+            <p><%= data.id %></p>
+            <p><%= data.time %></p>
+        <% } %>
+    </div>
+</body>
